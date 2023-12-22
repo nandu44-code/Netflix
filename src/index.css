@@ -4,8 +4,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 
-
 body{
-  background-color: black;
+  background-color: rgb(0, 0, 0);
   font-family: "Lato",'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serifnpm ;
 }
